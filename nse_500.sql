@@ -1,0 +1,1 @@
+SELECT * FROM nse_500.companies;
