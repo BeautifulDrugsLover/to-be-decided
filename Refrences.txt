@@ -1,0 +1,11 @@
+TRY EXCEPT BLOCK
+
+	try:
+		pass
+	except Exception:
+		pass
+	else:
+		pass
+	finally:
+		pass
+		
